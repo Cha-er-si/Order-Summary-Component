@@ -20,8 +20,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/order-summary-component-kzpST3vaXn)
+- Live Site URL: [Add live site URL here](https://order-summary-component-charles.netlify.app/)
 
 ## My process
 
